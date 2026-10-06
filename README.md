@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**AaliyanHussain/AaliyanHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 🎮
+I am Aaliyan Hussian, I am Currently a High School Student in Pakistan.
+I am Currently Self-Learning Game Development.
+Things I am Teaching Myself:
+* Python
+* 3D Modeling
+I am Currently Working on a Psychological Horror Game and Also Learning Something New Every Single Day.
+Fun Fact:
+* I am Obsessed With Calisthenics.
+* I Love to Play Video-Games
+* I am in Love With Technology
+* I am Obsessed With Nature.
