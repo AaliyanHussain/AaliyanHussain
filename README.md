@@ -6,7 +6,7 @@ Things I am Teaching Myself:
 * Python
 * 3D Modeling
 
-I am Currently Working on a Psychological Horror Game and Also Learning Something New Every Single Day.
+I am Currently Working on a 2D Psychological Horror Game and Also Learning Something New Every Single Day.
 
 Fun Fact:
 * I am Obsessed With Calisthenics.
